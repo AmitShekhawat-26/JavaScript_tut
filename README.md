@@ -1,2 +1,2 @@
 # JavaScript_tut
-A code repo with Amit Singh Shekhawat
+A code repo by Amit Singh Shekhawat
